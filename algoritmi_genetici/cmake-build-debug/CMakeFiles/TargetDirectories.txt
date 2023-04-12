@@ -1,3 +1,0 @@
-/home/andreea/cursuri/AA/tema_algoritmi_genetici/cmake-build-debug/CMakeFiles/tema_algoritmi_genetici.dir
-/home/andreea/cursuri/AA/tema_algoritmi_genetici/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/andreea/cursuri/AA/tema_algoritmi_genetici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
